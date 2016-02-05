@@ -1,8 +1,7 @@
-
-
-Scenario: 1 Adding new wrestler
 Meta:
 @functional
+
+Scenario: 1 Adding new wrestler
 Given user opens main page
 When user inputs auto and test on main page
 When add new sportsman with credentials:
